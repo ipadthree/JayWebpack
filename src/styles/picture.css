@@ -1,0 +1,7 @@
+.beauty {
+    background: url("../assets/xioayun.jpeg");
+    background-size: cover;
+    background-position: center;
+    min-height: 300px;
+    width: 100%;
+}
